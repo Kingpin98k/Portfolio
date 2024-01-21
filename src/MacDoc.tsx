@@ -1,5 +1,3 @@
-import * as React from "react";
-
 import { Card } from "./components/Card";
 import { Dock } from "./components/Dock";
 import { DockCard } from "./components/DockCard";
